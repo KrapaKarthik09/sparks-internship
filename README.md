@@ -1,2 +1,3 @@
 # sparks-internship
-The Sparks Network Internship Tasks
+The Sparks Foundation Internship Tasks
+Data Science and Business Analytics Internship
